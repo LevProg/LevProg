@@ -4,7 +4,8 @@ My name is Lev, and a programmer from Russia
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-СSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Google Colab-informational?style=flat&logo=GoogleColab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=JupiterNotebook&logoColor=white&color=2bbc8a)
 
 
 
