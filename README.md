@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/LevProg/LevProg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&exclude_repo=ai-corruption&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&exclude_repo=ai-corruption&theme=radical&langs_count=4" />
 </a>
 <a href="https://github.com/LevProg/LevProg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LevProg&hide=prs,contribs&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LevProg&hide=prs&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
 </a>
 
 <!--
