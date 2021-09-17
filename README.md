@@ -1,5 +1,11 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LevProg&theme=cobalt&hide=prs,contribs)]<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&theme=cobalt&exclude_repo=ai-corruption" />
+<a href="https://github.com/LevProg/LevProg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/LevProg/LevProg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LevProg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Levs's GitHub Stats" />
+</a>
+
 <!--
 **LevProg/LevProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
