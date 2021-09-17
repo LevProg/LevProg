@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Lev, and a programmer from Russia
+My name is Lev, and a programmer from Russia
 ### Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
