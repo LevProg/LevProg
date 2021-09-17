@@ -1,9 +1,14 @@
 ### Hi there 👋
+## My name is Lev, and a programmer from Russia
+### Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+
 <a href="https://github.com/LevProg/LevProg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&exclude_repo=ai-corruption&theme=radical&langs_count=3" />
 </a>
 <a href="https://github.com/LevProg/LevProg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LevProg&hide=prs&show_icons=true&line_height=27&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LevProg&hide=prs&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Lev's GitHub Stats" />
 </a>
 
 <!--
