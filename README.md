@@ -13,7 +13,7 @@ At the moment I am doing AI (Machine Learning and Neural Networks) and games on 
 
 
 <a href="https://github.com/LevProg/LevProg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&exclude_repo=ai-corruption&?hide=ObjectiveC&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevProg&exclude_repo=ai-corruption&?hide=C#&theme=radical&langs_count=3" />
 </a>
 <a href="https://github.com/LevProg/LevProg">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LevProg&hide=prs&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Lev's GitHub Stats" />
