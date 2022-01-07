@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Lev, and a programmer from Russia
+My name is Lev
 
 At the moment I am doing AI (Machine Learning and Neural Networks) and gamedev
 ### Tools
