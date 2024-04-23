@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Lev
 
-At the moment I am doing AI (Machine Learning and Neural Networks) and gamedev
+At the moment I am doing AI (Machine Learning and Neural Networks) and frontend/backend
 ### Tools
 ![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=Visual+Studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
