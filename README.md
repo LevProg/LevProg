@@ -9,7 +9,6 @@ At the moment I am doing AI (Machine Learning and Neural Networks) and frontend/
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-JupyterNotebook-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=Unity&logoColor=white&color=2bbc8a)
 
 
 <a href="https://github.com/LevProg/LevProg">
